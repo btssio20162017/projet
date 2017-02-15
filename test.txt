@@ -5,3 +5,4 @@ Essayons encore une fois
 \n\rEssayons encore une fois
 \n\r.Essayons encore une fois
 Test final
+Conflit de test
